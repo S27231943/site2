@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+img{
+    width:240px ;
+    height:150px ;
+    margin: 15px;
+}
+body{
+    background-color:rgb(50, 61, 86) ;
+    color:white ;
+}
+footer{
+    text-align: center;
+}
+table, td{
+    border: 1px dashed white;
+}
+
+a {
+    border:1px solid white;
+    background-color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 15px;
+    color:rgb(50, 61, 86);
+}
